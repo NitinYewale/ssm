@@ -25,6 +25,10 @@ List command
 ============
 .. include:: src/commands/list.txt
 
+Info command
+============
+.. include:: src/commands/info.txt
+
 Remove command
 ==============
 .. include:: src/commands/remove.txt
@@ -44,6 +48,16 @@ Snapshot command
 Add command
 ===========
 .. include:: src/commands/add.txt
+
+Mount command
+=============
+.. include:: src/commands/mount.txt
+
+Migrate command
+===============
+.. include:: src/commands/migrate.txt
+
+
 
 Backends
 ========
